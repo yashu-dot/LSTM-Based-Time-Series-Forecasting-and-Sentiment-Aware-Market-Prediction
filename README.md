@@ -1,4 +1,4 @@
-# Stock Market Prediction
+# LSTM-Based Time-Series Forecasting and Sentiment-Aware Market Prediction
 ## Overview
 This project introduces an innovative stock market forecasting system, leveraging machine learning and deep learning models. It focuses on accurate predictions for selected publicly traded companies by incorporating historical stock data and sentiment-enriched tweets.
 
